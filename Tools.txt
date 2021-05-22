@@ -1,0 +1,7 @@
+1. Forensics:
+
+1.1 exiftool : metadata
+1.2 binwalk : binary info in the file
+1.3 Foremost : recover deleted files / overwritten files
+1.4 strings : strings hidden in the file
+1.5 
