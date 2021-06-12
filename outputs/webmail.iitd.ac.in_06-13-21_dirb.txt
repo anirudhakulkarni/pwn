@@ -1,0 +1,16 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: /mnt/e/ctf/outputs/webmail.iitd.ac.in_06-13-21_dirb.txt
+START_TIME: Sun Jun 13 01:12:24 2021
+URL_BASE: https://webmail.iitd.ac.in/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4614
+
+---- Scanning URL: https://webmail.iitd.ac.in/ ----
