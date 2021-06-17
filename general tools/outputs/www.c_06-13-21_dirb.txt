@@ -1,0 +1,33 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: /mnt/e/ctf/outputs/www.c_06-13-21_dirb.txt
+START_TIME: Sun Jun 13 19:45:21 2021
+URL_BASE: https://www.cse.iitd.ac.in/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4614
+
+---- Scanning URL: https://www.cse.iitd.ac.in/ ----
+==> DIRECTORY: https://www.cse.iitd.ac.in/academics/
+==> DIRECTORY: https://www.cse.iitd.ac.in/administrator/
+==> DIRECTORY: https://www.cse.iitd.ac.in/brochure/
+==> DIRECTORY: https://www.cse.iitd.ac.in/cache/
+==> DIRECTORY: https://www.cse.iitd.ac.in/cgi-bin/
++ https://www.cse.iitd.ac.in/cgi-bin/ (CODE:403|SIZE:375)
+==> DIRECTORY: https://www.cse.iitd.ac.in/components/
+==> DIRECTORY: https://www.cse.iitd.ac.in/conf/
+==> DIRECTORY: https://www.cse.iitd.ac.in/cse/
+==> DIRECTORY: https://www.cse.iitd.ac.in/DB/
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Sun Jun 13 19:57:41 2021
+DOWNLOADED: 1223 - FOUND: 1

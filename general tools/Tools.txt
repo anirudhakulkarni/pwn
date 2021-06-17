@@ -8,4 +8,4 @@
 
 Web:
 1 dirb : crawls all possible sublinks
-2. 
+2. webscan.sh has dirb, dirsearch - optimised and advanced dirb, nikto
